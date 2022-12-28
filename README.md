@@ -1,5 +1,5 @@
 ### Hi there 👋
- <img align="center" alt="banner" width="400" src="https://ibb.co/1MXPWBJ">
+![banner](https://user-images.githubusercontent.com/118686861/209875232-49d8c61e-e03b-4254-8dab-a145d88c0432.jpg)
 
 
 
