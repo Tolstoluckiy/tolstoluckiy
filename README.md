@@ -5,4 +5,4 @@ I am a software tester. I like to learn new skills and master old ones. I'm curr
 
 Beside work, I have passion in photography and graphic design. Check out my <a href="https://www.behance.net/tolstoluckiy">Behance profile</a>.
 
-If you want to contact me: write email, or hit me up in <a href="https://discordapp.com/users/SolidSerega#3705">Discord</a>.
+If you want to contact me: write email or, hit me up in <a href="https://discordapp.com/users/SolidSerega#3705">Discord</a>.
